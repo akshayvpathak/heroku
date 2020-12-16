@@ -3,7 +3,7 @@
 <title>Your Website Title</title>
 <!-- You can use Open Graph tags to customize link previews.
 Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
-<meta property="og:url"           content="http://testingakshay/" />
+<meta property="og:url"           content="https://testingakshay.herokuapp.com/" />
 <meta property="og:type"          content="website" />
 <meta property="og:title"         content="Best free blog sites to consider in 2020" />
 <meta property="og:description"   content="Here are the best free blogging sites you can use to start your own blog today" />
@@ -23,7 +23,7 @@ fjs.parentNode.insertBefore(js, fjs);
 
 <!-- Your share button code -->
 <div class="fb-share-button" 
-data-href="http://testingakshay/" 
+data-href="https://testingakshay.herokuapp.com/" 
 data-layout="button_count">
 </div>
 

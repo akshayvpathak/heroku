@@ -6,9 +6,10 @@ Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
 <meta property="og:url"           content="https://testingakshay.herokuapp.com/" />
 <meta property="og:type"          content="website" />
 <meta property="og:title"         content="Best free blog sites to consider in 2020" />
-<meta property="og:description"   content="blah blah blah" />
-<meta property="og:image"         content="https://mllj2j8xvfl0.i.optimole.com/Lsv2lkg.h4VG~36e0a/w:60/h:60/q:98/https://s15165.pcdn.co/wp-content/uploads/2018/09/adelina-1.jpg" />
-</head>
+<meta property="og:description" content="Looking for free blog sites? If you don't know what platform to use for your blog, check out these free blogging sites. Learn which is best.">
+<meta property="og:image" content="https://mllj2j8xvfl0.i.optimole.com/Lsv2lkg.h4VG~36e0a/w:auto/h:auto/q:98/https://s15165.pcdn.co/wp-content/uploads/2018/03/free-blogging-sites.png"></head>
+<meta property="og:image:width" content="2180">
+<meta property="og:image:height" content="1090">
 <body>
 
 <!-- Load Facebook SDK for JavaScript -->
